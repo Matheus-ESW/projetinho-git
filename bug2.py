@@ -1,0 +1,1 @@
+print("Esse código resolve todos os problemas 2 de bugs automaticamente!")

@@ -1,1 +1,1 @@
-pritn("Esse código resolve todos os problemas de bugs automaticamente!")
+print("Esse código resolve todos os problemas de bugs automaticamente!")
