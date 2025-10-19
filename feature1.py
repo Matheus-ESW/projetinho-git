@@ -1,0 +1,1 @@
+print("Aqui vai todo o código de resolução referente à feature 1.")
