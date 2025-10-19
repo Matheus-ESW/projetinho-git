@@ -1,0 +1,1 @@
+print("Outra solução de bug 2 implementada aqui!")
